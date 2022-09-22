@@ -9,6 +9,7 @@ Este artigo [aqui](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobre-a
 - Engenharia de Confiabilidade do Google
 - O Projeto Fênix
 - Microsserviços prontos para a Produção
+- Kubernetes Basico
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
